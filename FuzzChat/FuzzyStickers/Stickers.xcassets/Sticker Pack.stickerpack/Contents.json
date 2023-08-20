@@ -1,0 +1,62 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "nukem.sticker"
+    },
+    {
+      "filename" : "Tiger.sticker"
+    },
+    {
+      "filename" : "Loser sticker.sticker"
+    },
+    {
+      "filename" : "Tiger-1.sticker"
+    },
+    {
+      "filename" : "Grid copy 2.sticker"
+    },
+    {
+      "filename" : "Grid copy.sticker"
+    },
+    {
+      "filename" : "patient.sticker"
+    },
+    {
+      "filename" : "Metal hunks.sticker"
+    },
+    {
+      "filename" : "CONNECTING.sticker"
+    },
+    {
+      "filename" : "knife.sticker"
+    },
+    {
+      "filename" : "Beat.sticker"
+    },
+    {
+      "filename" : "Angry fuzz.sticker"
+    },
+    {
+      "filename" : "fuzz.sticker"
+    },
+    {
+      "filename" : "Chainsaw.sticker"
+    },
+    {
+      "filename" : "hawk.sticker"
+    },
+    {
+      "filename" : "Russian fuzz.sticker"
+    },
+    {
+      "filename" : "Grid.sticker"
+    }
+  ]
+}

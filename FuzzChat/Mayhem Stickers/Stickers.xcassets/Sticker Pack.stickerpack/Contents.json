@@ -1,0 +1,32 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "happy turret.sticker"
+    },
+    {
+      "filename" : "Saw.sticker"
+    },
+    {
+      "filename" : "elite.sticker"
+    },
+    {
+      "filename" : "Metal hunks.sticker"
+    },
+    {
+      "filename" : "life.sticker"
+    },
+    {
+      "filename" : "nukem.sticker"
+    },
+    {
+      "filename" : "restart 2.sticker"
+    }
+  ]
+}
